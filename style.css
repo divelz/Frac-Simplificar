@@ -1,0 +1,104 @@
+QFrame#fr_fondo{
+    background: #05182a;
+    border:6px solid #223048;
+    border-radius: 30px;
+}
+
+QPushButton#btn_cerrar{
+    background: #ac0003;
+    border-radius: 10px;
+}
+
+QPushButton#btn_cerrar:hover{
+    background: #ff0008;
+}
+
+QPushButton#btn_minimizar{
+    background: #666666;
+    border-radius: 10px;
+}
+
+QPushButton#btn_minimizar:hover{
+    background: #a8a8a8;
+}
+
+QLabel#lbl_title{
+    font: 30px arial;
+    border: 6px solid #223048;
+    border-bottom-left-radius: 15px;
+    color: #a5b3ff;
+}
+
+QLabel#lbl_igual{
+    border-radius: 15px;
+    font: 22pt Cambria Math;
+    background: #082947;
+    color: #83a8ff;
+}
+
+QComboBox{
+    font: 20px arial bold; 
+}
+
+QLineEdit#txte_num, #txte_num2{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font: 18pt Cambria Math;
+    background: #082947;
+    color: #83a8ff;
+}
+
+QLineEdit#txte_den, #txte_den2{
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    font: 18pt Cambria Math;
+    background: #082947;
+    color: #83a8ff;
+}
+
+QPushButton#btn_verificar{
+    font: 75 italic 14pt Arial;
+    color: qlineargradient(spread:pad, x1:0.148273, y1:0.994, x2:0.869545, y2:1, stop:0 rgba(4, 255, 0, 255), stop:0.505682 rgba(2, 255, 212, 255), stop:0.971591 rgba(0, 255, 212, 255));
+    background: transparent;
+    border: 3px solid qlineargradient(spread:pad, x1:0.148273, y1:0.994, x2:0.869545, y2:1, stop:0 rgba(4, 255, 0, 255), stop:0.505682 rgba(2, 255, 212, 255), stop:0.971591 rgba(0, 255, 212, 255));
+    border-radius: 10px;
+}
+
+QPushButton#btn_verificar:hover{
+    background: #00ffff;
+    color: #05182a;
+    border-color: #00ebeb;
+}
+
+QPushButton#btn_verificar:pressed, #btn_continuar:pressed{
+    padding-left: 10px;
+}
+
+QLabel#lbl_autor{
+    font: 75 italic 14pt Arial;
+    border: 6px solid #223048;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 15px;
+    color: #a5b3ff;
+    background: transparent;
+}
+
+QLabel#lbl_message{
+    font: 25px arial;
+    border: 6px solid #223048;
+    border-radius: 15px;
+    color: #a5b3ff;
+}
+
+QPushButton#btn_continuar{
+    font: 75 italic 14pt Arial;
+    color: #05182a;
+    border: 3px solid #2d96ff;
+    background: #2d96ff;
+    border-radius: 10px;
+}
+
+QPushButton#btn_continuar:hover{
+    background: #05182a;
+    color: #2d96ff;
+}
