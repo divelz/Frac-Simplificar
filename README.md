@@ -1,7 +1,10 @@
 # Frac-Simplificar
-Ejercicio: fraciones para simplificar
-![Image text](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
-![Image text]()
-Para comenzar, ejecutar el archvivo __main__.py 
+
+Proyecto 1: fraciones para simplificar
+
+![Imagen de la representación gráfica](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+![Imagen de la representación gráfica]()
+
+Para comenzar, ejecutar el archivo __main__.py 
 
 <i> Autor: Francisco Velez <i>
